@@ -32,4 +32,4 @@ Once you enter the repo you need to add your HTML file you want to display. For 
 
 After you pushed your chnages to github everything should work. To visit you site simply visit "name_of_repo.github.io." (dont forget the full stop at the end)
 
-in my case the site would be "https://iamaasim.github.io."
+in my case the site would be "https://iamqaasim.github.io."
