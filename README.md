@@ -29,6 +29,6 @@ Once you enter the repo you need to add your static sites HTML, CSS and/ JS file
 
 ## Push changes and visit site
 
-After you pushed your chnages to github everything should work. To visit you site simply visit "name_of_repo.github.io." (dont forget the full stop at the end)
+After you pushed your chnages to github everything should work (it takes a while for changes to take effect). To visit you site simply visit "name_of_repo.github.io." (dont forget the full stop at the end)
 
 in my case the site would be "https://iamqaasim.github.io."
