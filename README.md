@@ -1,11 +1,10 @@
 
 # Github Pages
-Github offers free hosting.
+Github offers free hosting for static website
 
 see https://docs.github.com/en/pages to learn more
 
 # Quick Start
-
 
 ## Clone repo
 
@@ -21,7 +20,7 @@ You need 3 things:
     
 ## Enter repo
 
-Once you enter the repo you need to add your HTML file you want to display. For simplicity sake you can use the following command for testing
+Once you enter the repo you need to add your static sites HTML, CSS and/ JS files. For simplicity sake you can use the following command for testing
 
 
 ```bash
